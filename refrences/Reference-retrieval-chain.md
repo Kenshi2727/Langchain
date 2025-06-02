@@ -1,1 +1,1 @@
-# [Documentaion refrence to Retrieval augmented generation (rag)](https://js.langchain.com/docs/concepts/rag/)
+# [Documentaion refrence to Text Spliterrs Vectr Stores](https://js.langchain.com/docs/concepts/text_splitters/)
